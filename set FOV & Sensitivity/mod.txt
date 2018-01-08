@@ -1,0 +1,13 @@
+{
+	"name" : "set FOV & Sensitivity",
+	"keybinds": [
+		{
+			"keybind_id": "set_fov_sens",
+			"name": "set FOV & Sensitivity",
+			"script_path": "set.lua",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"localized": false
+		}
+	]
+}
