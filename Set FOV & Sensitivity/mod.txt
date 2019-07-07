@@ -1,0 +1,21 @@
+{
+	"name" : "Set FOV & Sensitivity",
+	"description" : "Set FOV and sensitivity exactly using a keybind.",
+	"author" : "Skwuruhl",
+	"contact" : "reddit.com/u/skwuruhl",
+	"version" : "v1.0",
+	"blt_version" : 2,
+	"image" : "mouse.png",
+	"color" : "255 192 203",
+	"keybinds" : [
+		{
+			"keybind_id" : "set_fov_sens",
+			"name" : "Set FOV & Sensitivity",
+			"description" : "Edit set.lua to choose your settings.",
+			"script_path" : "set.lua",
+			"run_in_menu" : true,
+			"run_in_game" : true,
+			"localized" : false
+		}
+	]
+}
