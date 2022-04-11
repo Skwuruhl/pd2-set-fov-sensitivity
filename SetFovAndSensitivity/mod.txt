@@ -11,7 +11,7 @@
     {
         "identifier" : "setfovsens",
         "host": {
-            "meta": ""
+            "meta": "https://github.com/Skwuruhl/pd2-set-fov-sensitivity/releases/download/Release/meta.json"
         }
     }
 	],
