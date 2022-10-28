@@ -3,7 +3,7 @@
 	"description" : "Set FOV and sensitivity exactly using a keybind.",
 	"author" : "Skwuruhl",
 	"contact" : "reddit.com/u/skwuruhl",
-	"version" : "v2.0",
+	"version" : "v2.229",
 	"blt_version" : 2,
 	"image" : "mouse.png",
 	"color" : "255 192 203",
