@@ -3,7 +3,7 @@ desired_cm = 30 --desired cm/360
 dpi = 800 --mouse DPI
 
 sensitivity = 360 / 0.15 / dpi / desired_cm * 2.54
-fov = 2*math.atan(4/3*math.tan(math.rad(desired_vFOV)/2))/math.rad(65)
+fov = 2*math.atan(4/3*math.tan(desired_vFOV/2))/65
 
 managers.user:set_setting("fov_multiplier", fov)
 managers.user:set_setting("camera_sensitivity_x", sensitivity)
